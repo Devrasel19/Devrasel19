@@ -2,9 +2,9 @@
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQGCXHrdvyIrBA/profile-displaybackgroundimage-shrink_350_1400/B4EZo1seNaHcAY-/0/1761837447438?e=1764201600&v=beta&t=khs822rB1hgCJd_yK-KHYrh7gWtRta_hJHgqOR0z020">
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddvrasel19&label=Profile%20views&color=0e75b6&style=flat" alt="ddvrasel19" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devrasel19&label=Profile%20views&color=0e75b6&style=flat" alt="devrasel19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ddvrasel19" alt="ddvrasel19" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devrasel19" alt="devrasel19" /></a> </p>
 
 - 🔭 I’m currently working on **Freelancer**
 
